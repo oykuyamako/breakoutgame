@@ -1,2 +1,5 @@
 # breakoutgame
-javascript 1 player breakout game with level system
+basic breakout game implemented with javascript
+---
+level system
+single player
